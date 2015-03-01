@@ -14,8 +14,10 @@
       A begun matrix library for webgl with glmatrix function argument syntax.
       May have mistakes and is not complete. I am failing in terms of completeness of
       the graphic mathematics, i still fail writing my own projection for 2d canvas to show e.g. 3d surfaces on screen
+      btw. in math which attracts me since after it´s very easy to transform, better to learn math first :)
     - Useful: some stuff from "Core HTML5 Canvas" like AnimationTimer
     - The Hit: The Cyclone Physics Engine from Ian Millingtons Book "Game Physics Engine Development"
+    - Another: Contains Vertex-Data and object Code from the WebGL Beginner´s Guide, which explains Lights, Cams, Picking, and the other boilerplates for 3d apps with GL.
     
     After checking what´s going on, dynamics is no longer a black box for me,
     nor the collision detection.
@@ -23,6 +25,8 @@
     Has to be debugged.
     
     Problem: My laptop is out of order, have no webgl since november.
+    
+    Solution: Clean up the project meanwhile, the old pc has mcedit, that worked for syntax.js until the first megabyte.
 
 */
 
